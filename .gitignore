@@ -8,8 +8,9 @@
 *.so
 *.project
 *.classpath
+.settings/*
 
-*/target/* 
+target/* 
 
 # Packages #
 ############
